@@ -29,6 +29,13 @@ ul {
 
 .tap-menu-list {
   float: left;
+  transition: border-bottom 50ms, color 50ms, background-color 50ms;
+}
+
+.tap-menu-list:hover {
+  color: #0066ff;
+  background-color: #f5fbff;
+  border-bottom: 2px solid #0066ff;
 }
 
 a {
