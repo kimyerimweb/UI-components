@@ -20,3 +20,14 @@ ul {
   padding: 0;
   list-style: none;
 }
+
+.tap-menu {
+  content: '';
+  display: block;
+  clear: left;
+}
+
+.tap-menu-list {
+  float: left;
+  padding: 16px 20px;
+}
