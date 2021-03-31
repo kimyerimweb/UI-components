@@ -29,5 +29,11 @@ ul {
 
 .tap-menu-list {
   float: left;
+}
+
+a {
+  display: block;
   padding: 16px 20px;
+  text-decoration: none;
+  color: inherit;
 }
